@@ -1,0 +1,6 @@
+@oidc_HostAddress = http://localhost:5215
+
+GET {{oidc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
